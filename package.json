@@ -1,0 +1,24 @@
+{
+  "name": "mundos-ia",
+  "version": "1.0.0",
+  "description": "Generador de bocetos visuales de mundos imaginarios usando APIs gratuitas de texto e imagen",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "ia",
+    "mundos",
+    "imagen",
+    "texto",
+    "sena"
+  ],
+  "author": "Joshan Pereira",
+  "license": "MIT",
+  "dependencies": {
+    "object-hash": "^3.0.0"
+  }
+}
