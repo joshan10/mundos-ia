@@ -1,0 +1,34 @@
+npm notice
+npm notice 📦  mundos-ia@1.0.0
+npm notice Tarball Contents
+npm notice 226B .env
+npm notice 440B .env.example
+npm notice 50B .gitignore.off
+npm notice 10.8kB README.md
+npm notice 233B data/mundo_3a8b6b08.json
+npm notice 230B data/mundo_3ffa4667.json
+npm notice 235B data/mundo_7a46184e.json
+npm notice 297B data/mundo_cba86145.json
+npm notice 297B data/mundo_ed55fd36.json
+npm notice 653B descripciones/mundo_cba86145.txt
+npm notice 633B descripciones/mundo_ed55fd36.txt
+npm notice 70.2kB imagenes/mundo_cba86145.jpg
+npm notice 43.3kB imagenes/mundo_ed55fd36.jpg
+npm notice 470B package.json
+npm notice 1.5kB src/errores.js
+npm notice 5.0kB src/imagen.js
+npm notice 2.8kB src/index.js
+npm notice 3.2kB src/mundo.js
+npm notice 3.1kB src/texto.js
+npm notice Tarball Details
+npm notice name: mundos-ia
+npm notice version: 1.0.0
+npm notice filename: mundos-ia-1.0.0.tgz
+npm notice package size: 119.8 kB
+npm notice unpacked size: 143.6 kB
+npm notice shasum: 806ede134f5bb5b0bea4439834ef3d64c05a6a32
+npm notice integrity: sha512-ua+u0CC2+YAYr[...]uInPasnXjIAZw==
+npm notice total files: 19
+npm notice
+npm notice Publishing to https://registry.npmjs.org/ with tag latest and default access (dry-run)
++ mundos-ia@1.0.0

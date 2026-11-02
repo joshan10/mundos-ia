@@ -1,0 +1,18 @@
+=== PRIMER INTENTO DEL SEGUNDO MUNDO (el texto se guardó, la imagen dio límite 429) ===
+
+> mundos-ia@1.0.0 start
+> node src/index.js Un eclipse eterno congela el desierto de cristal Luminara, una ciudad tallada dentro de un géiser de cristal turquesa naranja negro plata magenta
+
+Paso 1: mundo guardado en data/mundo_ed55fd36.json
+Paso 2: descripción guardada en descripciones/mundo_ed55fd36.txt
+Error: Superaste el límite gratuito. Espera un momento (revisa el encabezado retry-after si existe).
+
+=== REINTENTO 60 SEGUNDOS DESPUÉS (reutiliza el texto y genera la imagen) ===
+
+> mundos-ia@1.0.0 start
+> node src/index.js Un eclipse eterno congela el desierto de cristal Luminara, una ciudad tallada dentro de un géiser de cristal turquesa naranja negro plata magenta
+
+Paso 1: mundo guardado en data/mundo_ed55fd36.json
+Paso 2: la descripción ya existía, no se llamó al modelo de texto.
+Paso 3: imagen guardada en imagenes/mundo_ed55fd36.jpg
+Listo. Revisa la carpeta imagenes/

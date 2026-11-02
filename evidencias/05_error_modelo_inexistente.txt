@@ -1,0 +1,6 @@
+
+> mundos-ia@1.0.0 start
+> node src/index.js Prueba de modelo inexistente Mundo temporal de modelos cian coral oliva beige gris
+
+Paso 1: mundo guardado en data/mundo_3a8b6b08.json
+Error: El modelo o la URL no existen. Revisa tu configuración.

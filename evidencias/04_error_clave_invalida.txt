@@ -1,0 +1,6 @@
+
+> mundos-ia@1.0.0 start
+> node src/index.js Prueba de error de clave Mundo temporal de validacion rojo azul verde dorado violeta
+
+Paso 1: mundo guardado en data/mundo_7a46184e.json
+Error: La API key no es válida. Revisa tu archivo .env.

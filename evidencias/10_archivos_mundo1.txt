@@ -1,0 +1,20 @@
+=== data/mundo_cba86145.json ===
+{
+  "id": "cba86145",
+  "situacion": "Una tormenta eléctrica amenaza la ciudad flotante",
+  "mundo": "Aerópolis, un archipiélago de islas que flotan sobre las nubes",
+  "colores": [
+    "rojo",
+    "azul",
+    "verde",
+    "dorado",
+    "violeta"
+  ],
+  "creadoEn": "2026-11-02T20:56:58.090Z"
+}
+=== descripciones/mundo_cba86145.txt ===
+A towering city of glass and spires hovers above a swirling cloud sea, its neon banners flashing in a riot of violet and gold against a bruised midnight sky. Jagged bolts of lightning crack from the storm’s heart, illuminating the rooftops in stark blue, while the reflected glare paints the water‑like clouds a shimmering green. The foreground is dominated by a lone helix tower, its silhouette rendered in deep red, casting elongated shadows that intersect the wind‑whipped sails. The composition thrusts the viewer forward, framing the dramatic clash of storm and skyline in a cinematic, high‑contrast style that echoes comic‑book realism.
+
+=== imagenes/mundo_cba86145.jpg ===
+imagenes/mundo_cba86145.jpg: JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=8, manufacturer=sana, orientation=upper-left, xresolution=110, yresolution=118, resolutionunit=2], baseline, precision 8, 768x768, components 3
+-rw-rw-r-- 1 joshan joshan 69K nov  2 15:56 imagenes/mundo_cba86145.jpg

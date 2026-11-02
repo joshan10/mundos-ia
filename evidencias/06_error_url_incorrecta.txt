@@ -1,0 +1,6 @@
+
+> mundos-ia@1.0.0 start
+> node src/index.js Prueba de URL incorrecta Mundo temporal de red blanco negro rosa celeste marron
+
+Paso 1: mundo guardado en data/mundo_3ffa4667.json
+Error: No se pudo conectar. Revisa tu internet o la URL.
