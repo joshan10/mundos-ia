@@ -2,9 +2,10 @@ npm notice
 npm notice 📦  mundos-ia@1.0.0
 npm notice Tarball Contents
 npm notice 226B .env
-npm notice 440B .env.example
+npm notice 444B .env.example
 npm notice 50B .gitignore.off
-npm notice 10.8kB README.md
+npm notice 6.2kB PROMPT.md
+npm notice 11.0kB README.md
 npm notice 233B data/mundo_3a8b6b08.json
 npm notice 230B data/mundo_3ffa4667.json
 npm notice 235B data/mundo_7a46184e.json
@@ -12,6 +13,24 @@ npm notice 297B data/mundo_cba86145.json
 npm notice 297B data/mundo_ed55fd36.json
 npm notice 653B descripciones/mundo_cba86145.txt
 npm notice 633B descripciones/mundo_ed55fd36.txt
+npm notice 400B evidencias/01_ejecucion_mundo1.txt
+npm notice 986B evidencias/02_ejecucion_mundo2.txt
+npm notice 417B evidencias/03_segunda_ejecucion_reutiliza.txt
+npm notice 239B evidencias/04_error_clave_invalida.txt
+npm notice 244B evidencias/05_error_modelo_inexistente.txt
+npm notice 234B evidencias/06_error_url_incorrecta.txt
+npm notice 1.9kB evidencias/07_npm_publish_con_gitignore.txt
+npm notice 2.2kB evidencias/08_npm_publish_sin_gitignore.txt
+npm notice 892B evidencias/09_git_ls_files.txt
+npm notice 1.4kB evidencias/10_archivos_mundo1.txt
+npm notice 1.4kB evidencias/11_archivos_mundo2.txt
+npm notice 70.2kB evidencias/mundo_cba86145.jpg
+npm notice 297B evidencias/mundo_cba86145.json
+npm notice 653B evidencias/mundo_cba86145.txt
+npm notice 43.3kB evidencias/mundo_ed55fd36.jpg
+npm notice 297B evidencias/mundo_ed55fd36.json
+npm notice 633B evidencias/mundo_ed55fd36.txt
+npm notice 1.3kB evidencias/README.md
 npm notice 70.2kB imagenes/mundo_cba86145.jpg
 npm notice 43.3kB imagenes/mundo_ed55fd36.jpg
 npm notice 470B package.json
@@ -24,11 +43,11 @@ npm notice Tarball Details
 npm notice name: mundos-ia
 npm notice version: 1.0.0
 npm notice filename: mundos-ia-1.0.0.tgz
-npm notice package size: 119.8 kB
-npm notice unpacked size: 143.6 kB
-npm notice shasum: 806ede134f5bb5b0bea4439834ef3d64c05a6a32
-npm notice integrity: sha512-ua+u0CC2+YAYr[...]uInPasnXjIAZw==
-npm notice total files: 19
+npm notice package size: 233.2 kB
+npm notice unpacked size: 276.8 kB
+npm notice shasum: 4a4ff42296af219a208d6bfd6bc8915a9040e7fc
+npm notice integrity: sha512-gi7bmp6VIXiUa[...]JuPMEEsuwR/lw==
+npm notice total files: 38
 npm notice
 npm notice Publishing to https://registry.npmjs.org/ with tag latest and default access (dry-run)
 + mundos-ia@1.0.0

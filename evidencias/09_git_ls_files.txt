@@ -11,6 +11,7 @@ evidencias/05_error_modelo_inexistente.txt
 evidencias/06_error_url_incorrecta.txt
 evidencias/07_npm_publish_con_gitignore.txt
 evidencias/08_npm_publish_sin_gitignore.txt
+evidencias/09_git_ls_files.txt
 evidencias/10_archivos_mundo1.txt
 evidencias/11_archivos_mundo2.txt
 evidencias/README.md

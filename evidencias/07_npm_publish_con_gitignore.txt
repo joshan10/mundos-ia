@@ -2,8 +2,27 @@ npm warn gitignore-fallback No .npmignore file found, using .gitignore for file 
 npm notice
 npm notice 📦  mundos-ia@1.0.0
 npm notice Tarball Contents
-npm notice 440B .env.example
-npm notice 10.8kB README.md
+npm notice 444B .env.example
+npm notice 6.2kB PROMPT.md
+npm notice 11.0kB README.md
+npm notice 400B evidencias/01_ejecucion_mundo1.txt
+npm notice 986B evidencias/02_ejecucion_mundo2.txt
+npm notice 417B evidencias/03_segunda_ejecucion_reutiliza.txt
+npm notice 239B evidencias/04_error_clave_invalida.txt
+npm notice 244B evidencias/05_error_modelo_inexistente.txt
+npm notice 234B evidencias/06_error_url_incorrecta.txt
+npm notice 1.9kB evidencias/07_npm_publish_con_gitignore.txt
+npm notice 2.2kB evidencias/08_npm_publish_sin_gitignore.txt
+npm notice 892B evidencias/09_git_ls_files.txt
+npm notice 1.4kB evidencias/10_archivos_mundo1.txt
+npm notice 1.4kB evidencias/11_archivos_mundo2.txt
+npm notice 70.2kB evidencias/mundo_cba86145.jpg
+npm notice 297B evidencias/mundo_cba86145.json
+npm notice 653B evidencias/mundo_cba86145.txt
+npm notice 43.3kB evidencias/mundo_ed55fd36.jpg
+npm notice 297B evidencias/mundo_ed55fd36.json
+npm notice 633B evidencias/mundo_ed55fd36.txt
+npm notice 1.3kB evidencias/README.md
 npm notice 470B package.json
 npm notice 1.5kB src/errores.js
 npm notice 5.0kB src/imagen.js
@@ -14,11 +33,11 @@ npm notice Tarball Details
 npm notice name: mundos-ia
 npm notice version: 1.0.0
 npm notice filename: mundos-ia-1.0.0.tgz
-npm notice package size: 8.4 kB
-npm notice unpacked size: 27.3 kB
-npm notice shasum: fa0a88e33bb5772ac57c477e11b01583e8ee5a0b
-npm notice integrity: sha512-uCq82rnWhoTEi[...]EQEsgmYK/Jp7w==
-npm notice total files: 8
+npm notice package size: 123.9 kB
+npm notice unpacked size: 160.5 kB
+npm notice shasum: 82ae9821ee64b9c63ceae1cb8498235443f490fa
+npm notice integrity: sha512-PoMkE4iZ58G1b[...]GICAnBrgcKuKQ==
+npm notice total files: 27
 npm notice
 npm notice Publishing to https://registry.npmjs.org/ with tag latest and default access (dry-run)
 + mundos-ia@1.0.0

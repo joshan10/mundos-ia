@@ -142,7 +142,7 @@ El código de `src/imagen.js` también soporta NVIDIA FLUX.1-schnell y Cloudflar
 
 ## Experimento de `npm publish --dry-run`
 
-Con `.gitignore` presente, npm lo usa como respaldo porque no hay `.npmignore`. El paquete solo incluye `package.json`, `README.md`, `.env.example` y los archivos de `src/`. No aparecen `.env`, `data/`, `descripciones/` ni `imagenes/`.
+Con `.gitignore` presente, npm lo usa como respaldo porque no hay `.npmignore`. El paquete incluye `package.json`, `README.md`, `PROMPT.md`, `.env.example`, los archivos de `src/` y las evidencias, pero no aparecen `.env`, `data/`, `descripciones/` ni `imagenes/`.
 
 Al renombrar temporalmente `.gitignore` a `.gitignore.off`, npm deja de tener reglas de exclusión y el `--dry-run` muestra también `.env`, los JSON de `data/`, los `.txt` de `descripciones/` y los `.jpg` de `imagenes/`. Esto es peligroso porque un `npm publish` real subiría las claves de `.env` al registro público de npm. Cualquiera podría leerlas y gastar la cuota o acceder a los servicios. Por eso el `.gitignore` debe existir siempre y `.env` nunca debe publicarse. Después del experimento se restauró el nombre `.gitignore`.
 
