@@ -1,0 +1,35 @@
+$ git ls-files
+.env.example
+.gitignore
+PROMPT.md
+README.md
+evidencias/01_ejecucion_mundo1.txt
+evidencias/02_ejecucion_mundo2.txt
+evidencias/03_segunda_ejecucion_reutiliza.txt
+evidencias/04_error_clave_invalida.txt
+evidencias/05_error_modelo_inexistente.txt
+evidencias/06_error_url_incorrecta.txt
+evidencias/07_npm_publish_con_gitignore.txt
+evidencias/08_npm_publish_sin_gitignore.txt
+evidencias/10_archivos_mundo1.txt
+evidencias/11_archivos_mundo2.txt
+evidencias/README.md
+evidencias/mundo_cba86145.jpg
+evidencias/mundo_cba86145.json
+evidencias/mundo_cba86145.txt
+evidencias/mundo_ed55fd36.jpg
+evidencias/mundo_ed55fd36.json
+evidencias/mundo_ed55fd36.txt
+package-lock.json
+package.json
+src/errores.js
+src/imagen.js
+src/index.js
+src/mundo.js
+src/texto.js
+
+--- Comprobación: .env no está en la lista ---
+OK: .env no está rastreado por Git.
+
+$ git check-ignore -v .env
+.gitignore:2:.env	.env
